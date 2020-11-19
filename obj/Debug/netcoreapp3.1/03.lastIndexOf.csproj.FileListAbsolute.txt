@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\bin\Debug\netcoreapp3.1\03.lastIndexOf.exe
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\bin\Debug\netcoreapp3.1\03.lastIndexOf.deps.json
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\bin\Debug\netcoreapp3.1\03.lastIndexOf.runtimeconfig.json
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\bin\Debug\netcoreapp3.1\03.lastIndexOf.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\bin\Debug\netcoreapp3.1\03.lastIndexOf.dll
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\bin\Debug\netcoreapp3.1\03.lastIndexOf.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\obj\Debug\netcoreapp3.1\03.lastIndexOf.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\obj\Debug\netcoreapp3.1\03.lastIndexOf.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\obj\Debug\netcoreapp3.1\03.lastIndexOf.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\obj\Debug\netcoreapp3.1\03.lastIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\obj\Debug\netcoreapp3.1\03.lastIndexOf.dll
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\obj\Debug\netcoreapp3.1\03.lastIndexOf.pdb
+C:\Users\Bla\source\repos\01.stringTutorial\03.lastIndexOf\obj\Debug\netcoreapp3.1\03.lastIndexOf.genruntimeconfig.cache
